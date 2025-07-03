@@ -1,2 +1,2 @@
-# pen-200_-prepare-
-### notes for all things in my learning for OSCP exam
+# pen-200-prepare
+### Notes in my learning for OSCP exam
